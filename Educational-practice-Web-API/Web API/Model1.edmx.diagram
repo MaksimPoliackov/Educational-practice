@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1290a668a258456d9a70112ebe7c9e55" Name="Diagram1">
+        <EntityTypeShape EntityType="Model.Customer" Width="1.5" PointX="1.5" PointY="16.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.IncomeInvoice" Width="1.5" PointX="0.75" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.IncomeInvoiceDetail" Width="1.5" PointX="3" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Inventory" Width="1.5" PointX="3" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.OutcomeInvoice" Width="1.5" PointX="3.75" PointY="16.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.OutcomeInvoiceDetail" Width="1.5" PointX="6" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Product" Width="1.5" PointX="0.75" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Supplier" Width="1.5" PointX="1.5" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.sysdiagrams" Width="1.5" PointX="5.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Warehouse" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.WarehouseStock" Width="1.5" PointX="3" PointY="1.75" IsExpanded="true" />
+        <AssociationConnector Association="Model.FK__OutcomeIn__Custo__1B0907CE" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK__IncomeInv__Incom__20C1E124" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK__IncomeInv__Suppl__182C9B23" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK__IncomeInv__Produ__21B6055D" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK__Inventory__Wareh__1DE57479" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK__OutcomeIn__Outco__24927208" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK__OutcomeIn__Produ__25869641" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK__Warehouse__Produ__29572725" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK__Warehouse__Wareh__286302EC" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
