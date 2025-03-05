@@ -1,0 +1,26 @@
+﻿<FlyoutPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:local="clr-namespace:WarehouseApp.Views"
+            x:Class="WarehouseApp.Views.MainPage">
+
+    <!-- Меню (Flyout) -->
+    <FlyoutPage.Flyout>
+        <ContentPage Title="Меню" IconImageSource="menu.png">
+            <StackLayout>
+                <Button Text="Склады" Clicked="OnWarehousesClicked" />
+                <Button Text="Товары" Clicked="OnProductsClicked" />
+                <Button Text="Сканирование" Clicked="OnScanClicked" />
+                <Button Text="Профиль" Clicked="OnProfileClicked" />
+            </StackLayout>
+        </ContentPage>
+    </FlyoutPage.Flyout>
+
+    <!-- Основная страница (Detail) -->
+    <FlyoutPage.Detail>
+        <NavigationPage>
+            <x:Arguments>
+                <local:WarehousesPage />
+            </x:Arguments>
+        </NavigationPage>
+    </FlyoutPage.Detail>
+</FlyoutPage>

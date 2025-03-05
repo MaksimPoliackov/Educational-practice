@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "dgSpecHash": "QlOt7+W50yw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp.iOS\\WarehouseApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nout_1\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.2\\microsoft.bcl.asyncinterfaces.9.0.2.nupkg.sha512",
+    "C:\\Users\\Nout_1\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Nout_1\\.nuget\\packages\\system.io.pipelines\\9.0.2\\system.io.pipelines.9.0.2.nupkg.sha512",
+    "C:\\Users\\Nout_1\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Nout_1\\.nuget\\packages\\system.net.http.json\\9.0.2\\system.net.http.json.9.0.2.nupkg.sha512",
+    "C:\\Users\\Nout_1\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Nout_1\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nout_1\\.nuget\\packages\\system.text.encodings.web\\9.0.2\\system.text.encodings.web.9.0.2.nupkg.sha512",
+    "C:\\Users\\Nout_1\\.nuget\\packages\\system.text.json\\9.0.2\\system.text.json.9.0.2.nupkg.sha512",
+    "C:\\Users\\Nout_1\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Nout_1\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Nout_1\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\Nout_1\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Обнаружено понижение версии пакета Xamarin.Essentials с 1.8.1 на 1.7.0. Чтобы выбрать другую версию, создайте ссылку на пакет напрямую из проекта. \r\n WarehouseApp.iOS -> WarehouseApp -> Xamarin.Essentials (>= 1.8.1) \r\n WarehouseApp.iOS -> Xamarin.Essentials (>= 1.7.0)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-arm64",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Обнаружено понижение версии пакета Xamarin.Forms с 5.0.0.2662 на 5.0.0.2196. Чтобы выбрать другую версию, создайте ссылку на пакет напрямую из проекта. \r\n WarehouseApp.iOS -> WarehouseApp -> Xamarin.Forms (>= 5.0.0.2662) \r\n WarehouseApp.iOS -> Xamarin.Forms (>= 5.0.0.2196)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-arm64",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

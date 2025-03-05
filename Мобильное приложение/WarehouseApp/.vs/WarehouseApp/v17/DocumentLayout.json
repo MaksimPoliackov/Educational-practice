@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|c:\\users\\nout_1\\source\\repos\\warehouseapp\\warehouseapp\\warehouseapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehouseapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|c:\\users\\nout_1\\source\\repos\\warehouseapp\\warehouseapp\\warehouseapp\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehouseapp\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|c:\\users\\nout_1\\source\\repos\\warehouseapp\\warehouseapp\\warehouseapp\\views\\verifypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehouseapp\\views\\verifypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|c:\\users\\nout_1\\source\\repos\\warehouseapp\\warehouseapp\\warehouseapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehouseapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|c:\\users\\nout_1\\source\\repos\\warehouseapp\\warehouseapp\\warehouseapp\\views\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehouseapp\\views\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|c:\\users\\nout_1\\source\\repos\\warehouseapp\\warehouseapp\\warehouseapp\\views\\scanpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehouseapp\\views\\scanpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|c:\\users\\nout_1\\source\\repos\\warehouseapp\\warehouseapp\\warehouseapp\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehouseapp\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|c:\\users\\nout_1\\source\\repos\\warehouseapp\\warehouseapp\\warehouseapp\\views\\warehousespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehouseapp\\views\\warehousespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|c:\\users\\nout_1\\source\\repos\\warehouseapp\\warehouseapp\\warehouseapp\\views\\scanpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehouseapp\\views\\scanpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|c:\\users\\nout_1\\source\\repos\\warehouseapp\\warehouseapp\\warehouseapp\\views\\verifypage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehouseapp\\views\\verifypage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|c:\\users\\nout_1\\source\\repos\\warehouseapp\\warehouseapp\\warehouseapp\\views\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehouseapp\\views\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|c:\\users\\nout_1\\source\\repos\\warehouseapp\\warehouseapp\\warehouseapp\\views\\productspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehouseapp\\views\\productspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|c:\\users\\nout_1\\source\\repos\\warehouseapp\\warehouseapp\\warehouseapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehouseapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|c:\\users\\nout_1\\source\\repos\\warehouseapp\\warehouseapp\\warehouseapp\\views\\productspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehouseapp\\views\\productspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|c:\\users\\nout_1\\source\\repos\\warehouseapp\\warehouseapp\\warehouseapp\\views\\profilepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehouseapp\\views\\profilepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|c:\\users\\nout_1\\source\\repos\\warehouseapp\\warehouseapp\\warehouseapp\\views\\warehousespage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehouseapp\\views\\warehousespage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|c:\\users\\nout_1\\source\\repos\\warehouseapp\\warehouseapp\\warehouseapp\\views\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{E0A33424-E6EF-41F3-BA65-E6C0A4C0D540}|WarehouseApp\\WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehouseapp\\views\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\WarehouseApp\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\WarehouseApp\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:27:40.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\WarehouseApp\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\MainPage.xaml",
+              "RelativeToolTip": "WarehouseApp\\WarehouseApp\\Views\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T13:27:20.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScanPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\ScanPage.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\WarehouseApp\\Views\\ScanPage.xaml",
+              "ToolTip": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\ScanPage.xaml",
+              "RelativeToolTip": "WarehouseApp\\WarehouseApp\\Views\\ScanPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T13:25:29.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VerifyPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\VerifyPage.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\WarehouseApp\\Views\\VerifyPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\VerifyPage.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\WarehouseApp\\Views\\VerifyPage.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADgvx4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:01:19.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\App.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\WarehouseApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\App.xaml",
+              "RelativeToolTip": "WarehouseApp\\WarehouseApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T10:32:13.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\WarehouseApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\App.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\WarehouseApp\\App.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:32:17.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WarehousesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\WarehousesPage.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\WarehouseApp\\Views\\WarehousesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\WarehousesPage.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\WarehouseApp\\Views\\WarehousesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:05:10.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\WarehouseApp\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\WarehouseApp\\Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:07:02.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScanPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\ScanPage.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\WarehouseApp\\Views\\ScanPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\ScanPage.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\WarehouseApp\\Views\\ScanPage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:35:18.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VerifyPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\VerifyPage.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\WarehouseApp\\Views\\VerifyPage.xaml",
+              "ToolTip": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\VerifyPage.xaml",
+              "RelativeToolTip": "WarehouseApp\\WarehouseApp\\Views\\VerifyPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T10:01:10.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\WarehouseApp\\Views\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\WarehouseApp\\Views\\ProfilePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:26:56.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\ProductsPage.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\WarehouseApp\\Views\\ProductsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\ProductsPage.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\WarehouseApp\\Views\\ProductsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:27:30.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\WarehouseApp\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Services\\ApiService.cs",
+              "RelativeToolTip": "WarehouseApp\\WarehouseApp\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:10:36.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\ProductsPage.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\WarehouseApp\\Views\\ProductsPage.xaml",
+              "ToolTip": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\ProductsPage.xaml",
+              "RelativeToolTip": "WarehouseApp\\WarehouseApp\\Views\\ProductsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T10:27:16.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\WarehouseApp\\Views\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\ProfilePage.xaml",
+              "RelativeToolTip": "WarehouseApp\\WarehouseApp\\Views\\ProfilePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T10:26:42.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WarehousesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\WarehousesPage.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\WarehouseApp\\Views\\WarehousesPage.xaml",
+              "ToolTip": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\WarehousesPage.xaml",
+              "RelativeToolTip": "WarehouseApp\\WarehouseApp\\Views\\WarehousesPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T10:05:02.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\WarehouseApp\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Nout_1\\source\\repos\\WarehouseApp\\WarehouseApp\\WarehouseApp\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "WarehouseApp\\WarehouseApp\\Views\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T09:59:39.997Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

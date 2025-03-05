@@ -1,0 +1,8 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WarehouseApp.Views.VerifyPage">
+    <StackLayout Padding="20">
+        <Entry x:Name="CodeEntry" Placeholder="Введите код подтверждения" />
+        <Button Text="Подтвердить" Clicked="OnVerifyClicked" />
+    </StackLayout>
+</ContentPage>
