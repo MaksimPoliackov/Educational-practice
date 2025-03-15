@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u043A\u0441\\Downloads\\Practica4-main\\Practica4-main\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\LibWarehouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C4A429-55E7-4453-9669-EA779DD2F299}|LibWarehouse\\Warehouse.csproj|c:\\users\\\u043C\u0430\u043A\u0441\\downloads\\practica4-main\\practica4-main\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\libwarehouse\\libwarehouse\\warehousecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C4A429-55E7-4453-9669-EA779DD2F299}|LibWarehouse\\Warehouse.csproj|solutionrelative:libwarehouse\\warehousecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C4A429-55E7-4453-9669-EA779DD2F299}|LibWarehouse\\Warehouse.csproj|C:\\Users\\\u041C\u0430\u043A\u0441\\Downloads\\Practica4-main\\Practica4-main\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\LibWarehouse\\libwarehouse\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C4A429-55E7-4453-9669-EA779DD2F299}|LibWarehouse\\Warehouse.csproj|solutionrelative:libwarehouse\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\\Downloads\\Practica4-main\\Practica4-main\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\LibWarehouse\\LibWarehouse\\Product.cs",
+              "RelativeDocumentMoniker": "LibWarehouse\\Product.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\\Downloads\\Practica4-main\\Practica4-main\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\LibWarehouse\\LibWarehouse\\Product.cs",
+              "RelativeToolTip": "LibWarehouse\\Product.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:37:38.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WarehouseCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\\Downloads\\Practica4-main\\Practica4-main\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\LibWarehouse\\LibWarehouse\\WarehouseCalculator.cs",
+              "RelativeDocumentMoniker": "LibWarehouse\\WarehouseCalculator.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\\Downloads\\Practica4-main\\Practica4-main\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\LibWarehouse\\LibWarehouse\\WarehouseCalculator.cs",
+              "RelativeToolTip": "LibWarehouse\\WarehouseCalculator.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:31:38.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1078,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
